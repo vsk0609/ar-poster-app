@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
